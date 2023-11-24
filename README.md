@@ -8,7 +8,7 @@ This figure illustrates the distinctions between our Pixel Feature Refinement (P
 
 **2.**  **Visualization of heatmaps through PFR and CPFR modules.**
 
-Visualization of heatmaps through PFR and CPFR modules**.** (a) Input image (top) and Ground Truth (bottom). Channel visualization (b) before and (c) after our PFR module. Our proposed CPFR module uses low-level features (d) and high-level features (e) to generate features (f). The features presented in (c) and (f) demonstrates the ability of PFR and CPFR modules to capture integrity features.
+Visualization of heatmaps through PFR and CPFR modules. (a) Input image (top) and Ground Truth (bottom). Channel visualization (b) before and (c) after our PFR module. Our proposed CPFR module uses low-level features (d) and high-level features (e) to generate features (f). The features presented in (c) and (f) demonstrates the ability of PFR and CPFR modules to capture integrity features.
 
 ![image-20221023225816160](fig2.png)
 
