@@ -20,7 +20,7 @@ Visualization of heatmaps through PFR and CPFR modules**.** (a) Input image (top
 
 
 
-**4.**   **Integrity comparison between our method with other SOTAs.** 
+**4.**   **Comparative Analysis of Integrity Among Our Method and Other SOTAs.** 
 
 Integrity comparisons among various methods at false negative ratios (FNR) are essential, as FNR is a direct indicator of integrity; lower values signify better performance.
 
